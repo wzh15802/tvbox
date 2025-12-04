@@ -65,6 +65,10 @@
             "name": "荷城茶秀"
         },
         {
+            "url": "https:\/\/jihulab.com\/z-blog\/xh2\/raw\/main\/t.json",
+            "name": "荷城茶秀(备用)"
+        },
+        {
             "url": "https:\/\/raw.gitmirror.com\/bestpvp\/tm\/main\/source\/stable\/main.json",
             "name": "时光机"
         },
@@ -247,10 +251,6 @@
         {
             "url": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/foxccs\/tvbox\/main\/m.json",
             "name": "最后更新时间:20251202"
-        },
-        {
-            "url": "https:\/\/jihulab.com\/z-blog\/xh2\/raw\/main\/t.json",
-            "name": "荷城茶秀(备用)"
         }
     ]
 }
