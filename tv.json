@@ -149,10 +149,6 @@
             "name": "高天流云"
         },
         {
-            "url": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/foxccs\/tvbox\/main\/m.json",
-            "name": "最后更新时间:20260208"
-        },
-        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/maoystv\/6\/main\/001.json",
             "name": "分享者"
         },
@@ -203,6 +199,10 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
+        },
+        {
+            "url": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/foxccs\/tvbox\/main\/m.json",
+            "name": "最后更新时间:20260208"
         }
     ]
 }
