@@ -193,6 +193,10 @@
             "name": "雷蒙"
         },
         {
+            "url": "https:\/\/raw.githubusercontent.com\/xmbjm\/svip\/refs\/heads\/main\/svip.json",
+            "name": "拾光趣乐屋"
+        },
+        {
             "url": "https:\/\/www.yingm.cc\/dm\/dm.json",
             "name": "动漫"
         },
@@ -215,10 +219,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/tv.youdu.fan:666\/毒盒影视\/",
-            "name": "毒盒"
         }
     ]
 }
