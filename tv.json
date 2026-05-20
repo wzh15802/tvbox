@@ -45,6 +45,10 @@
             "name": "南风2"
         },
         {
+            "url": "https:\/\/play.iptv365.org\/%E5%8D%97%E9%A3%8E\/api.json",
+            "name": "南风3"
+        },
+        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/yydfys\/yydf\/main\/yydf\/yydfjk.json",
             "name": "业余"
         },
@@ -229,8 +233,8 @@
             "name": "公众号【武志红的杂货铺】"
         },
         {
-            "url": "https:\/\/play.iptv365.org\/%E5%8D%97%E9%A3%8E\/api.json",
-            "name": "南风3"
+            "url": "http:\/\/ygbhbox.3vfree.club\/pg\/jsm.json",
+            "name": "宝盒没宝"
         }
     ]
 }
