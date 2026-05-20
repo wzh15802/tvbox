@@ -185,6 +185,10 @@
             "name": "软件哥哥"
         },
         {
+            "url": "https:\/\/raw.githubusercontent.com\/n3rddd\/N3RD\/master\/JN\/lemj.json",
+            "name": "雷蒙"
+        },
+        {
             "url": "https:\/\/www.yingm.cc\/dm\/dm.json",
             "name": "动漫"
         },
@@ -211,10 +215,6 @@
         {
             "url": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/foxccs\/tvbox\/main\/m.json",
             "name": "最后更新时间:20260516"
-        },
-        {
-            "url": "https:\/\/raw.githubusercontent.com\/n3rddd\/N3RD\/master\/JN\/lemj.json",
-            "name": "雷蒙"
         }
     ]
 }
