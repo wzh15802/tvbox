@@ -233,6 +233,10 @@
             "name": "真心"
         },
         {
+            "url": "https:\/\/play.iptv365.org\/%E8%82%A5%E7%8C%AB\/api.json",
+            "name": "肥猫(临时)"
+        },
+        {
             "url": "http:\/\/xhztv.top\/dc\/%E7%A5%9E%E4%BB%99\/api.json",
             "name": "神仙"
         },
@@ -259,10 +263,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/play.iptv365.org\/%E8%82%A5%E7%8C%AB\/api.json",
-            "name": "肥猫(临时)"
         }
     ]
 }
