@@ -197,6 +197,10 @@
             "name": "小米"
         },
         {
+            "url": "https:\/\/play.iptv365.org\/%E5%B0%8F%E7%B1%B3\/api.json",
+            "name": "小米2"
+        },
+        {
             "url": "https:\/\/ysys.lic10.cn\/ys\/",
             "name": "余生"
         },
@@ -239,10 +243,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/play.iptv365.org\/%E5%B0%8F%E7%B1%B3\/api.json",
-            "name": "小米2"
         }
     ]
 }
