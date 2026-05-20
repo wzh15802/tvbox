@@ -185,6 +185,10 @@
             "name": "软件哥哥"
         },
         {
+            "url": "https:\/\/play.iptv365.org\/OK\/api.json",
+            "name": "OK杰克"
+        },
+        {
             "url": "https:\/\/raw.githubusercontent.com\/n3rddd\/N3RD\/master\/JN\/lemj.json",
             "name": "雷蒙"
         },
@@ -211,10 +215,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/play.iptv365.org\/OK\/api.json",
-            "name": "OK杰克"
         }
     ]
 }
