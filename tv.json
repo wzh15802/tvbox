@@ -209,6 +209,10 @@
             "name": "少儿"
         },
         {
+            "url": "https:\/\/gitlab.com\/noimank\/tvbox\/-\/raw\/main\/tvbox1.json",
+            "name": "南风2"
+        },
+        {
             "url": "http:\/\/box.ufuzi.com\/tv\/qq\/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93\/api.json",
             "name": "短剧2"
         },
