@@ -77,6 +77,10 @@
             "name": "荷城茶秀(备用)"
         },
         {
+            "url": "https:\/\/raw.githubusercontent.com\/XiaoYiChaHang\/tvbox\/main\/ysj.json",
+            "name": "荷城茶秀3"
+        },
+        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/bestpvp\/tm\/main\/source\/stable\/main.json",
             "name": "时光机"
         },
@@ -267,10 +271,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/raw.githubusercontent.com\/XiaoYiChaHang\/tvbox\/main\/ysj.json",
-            "name": "荷城茶秀3"
         }
     ]
 }
