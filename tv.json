@@ -181,6 +181,10 @@
             "name": "小米"
         },
         {
+            "url": "https:\/\/ysys.lic10.cn\/ys\/",
+            "name": "余生"
+        },
+        {
             "url": "http:\/\/47.96.82.41:8\/api.json",
             "name": "软件哥哥"
         },
@@ -219,10 +223,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "https:\/\/ysys.lic10.cn\/ys\/",
-            "name": "余生"
         }
     ]
 }
