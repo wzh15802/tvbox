@@ -169,6 +169,10 @@
             "name": "盒子4K"
         },
         {
+            "url": "http:\/\/xhztv.top\/xhz\/",
+            "name": "小盒子"
+        },
+        {
             "url": "https:\/\/raw.liucn.cc\/box\/m.json",
             "name": "刘备"
         },
@@ -235,10 +239,6 @@
         {
             "url": "https:\/\/dxawi.github.io\/0\/0.json",
             "name": "公众号【武志红的杂货铺】"
-        },
-        {
-            "url": "http:\/\/xhztv.top\/xhz\/",
-            "name": "小盒子"
         }
     ]
 }
