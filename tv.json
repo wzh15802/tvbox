@@ -225,6 +225,10 @@
             "name": "小米2"
         },
         {
+            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=7",
+            "name": "小米(欧歌线)"
+        },
+        {
             "url": "https:\/\/ysys.lic10.cn\/ys\/",
             "name": "余生"
         },
@@ -311,10 +315,6 @@
         {
             "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=6",
             "name": "东篱(欧歌线)"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=7",
-            "name": "小米(欧歌线)"
         }
     ]
 }
