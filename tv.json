@@ -273,6 +273,10 @@
             "name": "光歌云盘(欧歌线)"
         },
         {
+            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=5",
+            "name": "潇洒(欧歌线)"
+        },
+        {
             "url": "https:\/\/www.wya6.cn\/tv\/yc.json",
             "name": "无意"
         },
@@ -303,10 +307,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260520"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=5",
-            "name": "潇洒(欧歌线)"
         }
     ]
 }
