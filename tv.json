@@ -113,6 +113,10 @@
             "name": "胜寒"
         },
         {
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/17.html",
+            "name": "胜寒(欧歌线)"
+        },
+        {
             "url": "https:\/\/api.hgyx.vip\/hgyx.json",
             "name": "HG"
         },
@@ -347,10 +351,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260520"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/17.html",
-            "name": "胜寒(欧歌线)"
         }
     ]
 }
