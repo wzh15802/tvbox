@@ -57,6 +57,10 @@
             "name": "南风3"
         },
         {
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/20.html",
+            "name": "南风(欧歌线)"
+        },
+        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/yydfys\/yydf\/main\/yydf\/yydfjk.json",
             "name": "业余"
         },
@@ -359,10 +363,6 @@
         {
             "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/19.html",
             "name": "小屋(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/20.html",
-            "name": "南风(欧歌线)"
         }
     ]
 }
