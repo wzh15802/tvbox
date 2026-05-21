@@ -305,6 +305,10 @@
             "name": "PG(欧歌线)"
         },
         {
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/13.html",
+            "name": "多多(欧歌线)"
+        },
+        {
             "url": "https:\/\/www.wya6.cn\/tv\/yc.json",
             "name": "无意"
         },
@@ -335,10 +339,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260520"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/13.html",
-            "name": "多多(欧歌线)"
         }
     ]
 }
