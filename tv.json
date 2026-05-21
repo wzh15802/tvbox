@@ -125,6 +125,10 @@
             "name": "菜妮丝2"
         },
         {
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/16.html",
+            "name": "菜妮丝(欧歌线)"
+        },
+        {
             "url": "https:\/\/jihulab.com\/ymz1231\/xymz\/-\/raw\/main\/ymz",
             "name": "夜猫"
         },
@@ -343,10 +347,6 @@
         {
             "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/15.html",
             "name": "真心(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/16.html",
-            "name": "菜妮丝(欧歌线)"
         }
     ]
 }
