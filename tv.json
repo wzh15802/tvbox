@@ -25,7 +25,7 @@
             "name": "饭太硬备用6"
         },
         {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=1",
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/1.html",
             "name": "饭太硬备用7(欧歌线)"
         },
         {
@@ -337,6 +337,10 @@
             "name": "小屋(欧歌线)"
         },
         {
+            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/21.html",
+            "name": "杰哥(欧歌线)"
+        },
+        {
             "url": "https:\/\/www.yingm.cc\/dm\/dm.json",
             "name": "动漫"
         },
@@ -363,10 +367,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260520"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/21.html",
-            "name": "杰哥(欧歌线)"
         }
     ]
 }
