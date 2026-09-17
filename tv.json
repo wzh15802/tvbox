@@ -25,12 +25,8 @@
             "name": "饭太硬备用6(欧歌线)"
         },
         {
-            "url": "http:\/\/www.小不点.com",
-            "name": "摸鱼"
-        },
-        {
             "url": "https:\/\/play.iptv365.org\/%E6%91%B8%E9%B1%BC%E5%84%BF\/api.json",
-            "name": "摸鱼(备用)"
+            "name": "摸鱼"
         },
         {
             "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/10.html",
@@ -99,10 +95,6 @@
         {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/bestpvp\/tm\/main\/source\/stable\/main.json",
             "name": "时光机"
-        },
-        {
-            "url": "http:\/\/www.su7.run\/",
-            "name": "SU7"
         },
         {
             "url": "http:\/\/ztha.top\/TVBox\/thdjk.json",
