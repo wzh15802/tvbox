@@ -21,6 +21,10 @@
             "name": "饭太硬备用5"
         },
         {
+            "url": "https:\/\/cdn09022024.gitlink.org.cn\/api\/v1\/repos\/xxooo\/in\/raw\/in.bmp",
+            "name": "江苏福建专用"
+        },
+        {
             "url": "https:\/\/play.iptv365.org\/%E6%91%B8%E9%B1%BC%E5%84%BF\/api.json",
             "name": "摸鱼"
         },
@@ -255,10 +259,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260919"
-        },
-        {
-            "url": "https:\/\/cdn09022024.gitlink.org.cn\/api\/v1\/repos\/xxooo\/in\/raw\/in.bmp",
-            "name": "江苏福建专用"
         }
     ]
 }
