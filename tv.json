@@ -149,10 +149,6 @@
             "name": "月光宝盒"
         },
         {
-            "url": "https:\/\/9xi4o.tk\/tvbox.json",
-            "name": "盐枭"
-        },
-        {
             "url": "https:\/\/bitbucket.org\/xduo\/duoapi\/raw\/master\/xpg.json",
             "name": "小苹果"
         },
@@ -255,6 +251,10 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260919"
+        },
+        {
+            "url": "https:\/\/9763.kstore.vip\/aowu.json",
+            "name": "嗷呜"
         }
     ]
 }
