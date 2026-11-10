@@ -225,6 +225,10 @@
             "name": "神仙"
         },
         {
+            "url": "https:\/\/9763.kstore.vip\/aowu.json",
+            "name": "嗷呜"
+        },
+        {
             "url": "https:\/\/www.yingm.cc\/dm\/dm.json",
             "name": "动漫"
         },
@@ -251,10 +255,6 @@
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
             "name": "最后更新时间:20260919"
-        },
-        {
-            "url": "https:\/\/9763.kstore.vip\/aowu.json",
-            "name": "嗷呜"
         }
     ]
 }
